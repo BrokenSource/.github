@@ -14,6 +14,8 @@ We're an **open-source development team** dedicated on making **useful niched so
 
 **Uniqueness**, **consistency** and **scoping** are core parts of our philosophy, if a piece of code or theory is too complex we attempt to innovate simplifying it
 
+- We build **trust** by being **transparent** and **open** about our code and development process
+
 Our main repository<sup>(a monorepo)</sup> is called [BrokenSource](https://github.com/BrokenSource/BrokenSource), we have a **convenience** clone script and auto dependencies setup, you can **run any project** from there
 
 The main areas we develop for are:
