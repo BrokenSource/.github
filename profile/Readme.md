@@ -1,7 +1,7 @@
 【 🔴🟡🟢 Welcome 👋 】
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/110147748" style="vertical-align: middle; border-radius: 10%" width="200">
+  <img src="https://avatars.githubusercontent.com/u/110147748" width="200">
 
   <h2>Broken Source Software</h2>
 </div>
