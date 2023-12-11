@@ -3,9 +3,13 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/110147748" style="vertical-align: middle; border-radius: 10%" width="140">
 
-    :: Broken Source Software ::
+  <h2>Broken Source Software</h2>
 </div>
 
+👇 Expand the Sections
+
+<details>
+<summary>💔 Software</summary>
 
 ## 💔 Software
 We're an **open-source development team** dedicated on making **useful niched software** and cool minor projects
@@ -30,6 +34,11 @@ The name **Broken** _about the Source_ is merely comical in a way to represent t
 
 <sub> Also _Open_ and _Broken_ are somewhat similar on speech 😅 </sub>
 
+</details>
+
+
+<details>
+<summary>🔎 Research</summary>
 
 ## 🔎 Research
 When applicable, as a means of lowering the barrier for newcomers and contributing to libre science, we self-publish [papers](https://github.com/BrokenSource/Papers) explaining in readable details the _gotchas_ on the technology we use on our Software
@@ -48,12 +57,4 @@ For example, here's some starting ideas of many projects
 
 Our mission is to put an end these problems and annoyances; and to put to use experimental theories for fixing them while also sharing the knowledge
 
-
-## 🏆 What we have currently
-> Currently, stuff is under heavy development. It may feel like we are shooting at many directions at once without focusing on something first with the raw number of projects
-
-While there is some truth to this, most projects scopes are organized in a way their codebase will be shared or done for knowledge on lowering the technical debt on later projects
-
-We don't really have concrete roadmaps or deadlines, _stuff is done when it is done !_
-
-Stay tuned for more
+</details>
