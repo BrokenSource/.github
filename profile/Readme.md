@@ -1,12 +1,12 @@
 【 🔴🟡🟢 Welcome 👋 】
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/110147748" style="vertical-align: middle; border-radius: 10%" width="140">
+  <img src="https://avatars.githubusercontent.com/u/110147748" style="vertical-align: middle; border-radius: 10%" width="200">
 
   <h2>Broken Source Software</h2>
 </div>
 
-👇 Expand the Sections
+👇 **Expand** the Sections
 
 <details>
 <summary>💔 Software</summary>
@@ -34,6 +34,8 @@ The name **Broken** _about the Source_ is merely comical in a way to represent t
 
 <sub> Also _Open_ and _Broken_ are somewhat similar on speech 😅 </sub>
 
+<br>
+<br>
 </details>
 
 
@@ -57,4 +59,6 @@ For example, here's some starting ideas of many projects
 
 Our mission is to put an end these problems and annoyances; and to put to use experimental theories for fixing them while also sharing the knowledge
 
+<br>
+<br>
 </details>
