@@ -1,10 +1,39 @@
 【 🔴🟡🟢 Welcome 👋 】
 
+<div align="justify">
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/110147748" width="200">
 
   <h2>Broken Source Software</h2>
+
+  <img src="https://img.shields.io/github/followers/BrokenSource?style=flat" alt="Stars Badge"/>
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FBrokenSource%2FBrokenSource.json%3Fshow%3Dunique&label=Visitors&color=blue" alt="Visitors Badge"/>
+  <img src="https://img.shields.io/github/license/BrokenSource/BrokenSource?color=blue" alt="License Badge"/>
+  <img src="https://img.shields.io/pypi/v/broken-source"/>
+  <a href="https://t.me/brokensource">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram" alt="Telegram Channel Badge"/>
+  </a>
+  <a href="https://discord.gg/KjqvcYwRHm">
+    <img src="https://img.shields.io/discord/1184696441298485370?label=Discord&color=blue" alt="Discord Badge"/>
+  </a>
+
+  <sub> 👆 Be a part of our **mission** to **innovate** 🚀 </sub>
 </div>
+
+<br>
+
+We're an **Open-Source Development Team** (of one 😅) dedicated on making **Useful Niched Software**, and cool minor projects
+
+
+## 🔥 Key Projects
+- **[BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource):** The **Framework** that powers all of the projects, automation and consistency.
+- **[BrokenSource/SpectroNote](https://github.com/BrokenSource/SpectroNote):** Piano-Perfect **Audio Spectrogram**. Unlock a hidden Absolute Pitch in you.
+- **[BrokenSource/ShaderFlow](https://github.com/BrokenSource/ShaderFlow):** Audio-reactive **Shader Engine** with a Manim-like architecture.
+- **[BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow):** Transform **Images** into stunning **2.5D Parallax** Effect Videos.
+- **[BrokenSource/Pianola](https://github.com/BrokenSource/Pianola):** World's Smoothest and Most Customizable **Piano Roll**.
+
+<br>
 
 👇 **Expand** the Sections
 
@@ -12,7 +41,6 @@
 <summary>💔 Software</summary>
 
 ## 💔 Software
-We're an **open-source development team** dedicated on making **useful niched software** and cool minor projects
 
 > We code specific tools we long to use and think the world needs, new or libre
 
@@ -62,3 +90,5 @@ Our mission is to put an end these problems and annoyances; and to put to use ex
 <br>
 <br>
 </details>
+
+</div>
