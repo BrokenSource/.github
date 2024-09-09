@@ -1,15 +1,12 @@
-【 🔴🟡🟢 Welcome 👋 】
-
 <div align="justify">
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/110147748" width="200">
   <h2>Broken Source Software</h2>
+  I'm an <b>Open-Source Developer</b> dedicated on making <b>Useful Niched Software</b>
 </div>
 
 <br>
-
-We're an **Open-Source Development Team** (of one 😅) dedicated on making **Useful Niched Software**, and cool minor projects
 
 <div align="center">
   <h2>🍁 Learn More 🍁</h2>
